@@ -1,1 +1,1 @@
-gh secret set FEATHERLESS_KEY -R tu-usuario/klarixa-nonakortexflybrain
+gh secret set FEATHERLESS_KEY -R tu-usuario/klarixa-nonakortexflybrainrc_b5ef0eed9bb5706db39af75c1aac2e1970b18d9af030b8c92e2077579ed630c1
