@@ -1,0 +1,7 @@
+scripts/
+├── alfa.py      (Analista de Riesgos)
+├── phi.py       (Oficial de Cumplimiento)
+└── omega.py     (Sintetizador - el tercer selector que faltaba)
+.github/
+└── workflows/
+    └── nonacortex.yml
