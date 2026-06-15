@@ -1,0 +1,1 @@
+gh secret set FEATHERLESS_KEY -R tu-usuario/klarixa-nonakortexflybrain
