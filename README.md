@@ -47,4 +47,4 @@ Proyecto registrado bajo **WIPO IP-Shield** y protocolo **NNN-NDA-WIPO**. ID de 
 
 ## Autor
 
-**Arquitecto F1725** — EinsRos Global Cortex Ultd.
+**Arquitecto F1725** — EinsRos Global Cortex Ultd.🇻🇪🇻🇪🇨🇴🇨🇴🌐🌐
